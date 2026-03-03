@@ -6,15 +6,15 @@ This project performs an end-to-end analysis of investor behavior and financial 
 
 The primary objective was to transform raw investor survey data into a structured financial dataset and extract actionable insights related to:
 
-Demographic segmentation
+- Demographic segmentation
 
-Risk appetite classification
+- Risk appetite classification
 
-Return expectation analysis
+- Return expectation analysis
 
-Investment preference trends
+- Investment preference trends
 
-Portfolio behavior patterns
+- Portfolio behavior patterns
 
 This project simulates a real-world financial analytics workflow used in investment advisory and financial consulting environments.
 
@@ -23,33 +23,33 @@ This project simulates a real-world financial analytics workflow used in investm
 
 Used for:
 
-Data cleaning and schema transformation
+- Data cleaning and schema transformation
 
-Column normalization and structured table creation
+- Column normalization and structured table creation
 
-Investor segmentation using CASE statements
+- Investor segmentation using CASE statements
 
-Risk profiling model using ranking logic
+- Risk profiling model using ranking logic
 
-Subqueries for comparative analysis
+- Subqueries for comparative analysis
 
-Window functions (RANK) for investment popularity
+- Window functions (RANK) for investment popularity
 
-View creation for reusable analytics
+- View creation for reusable analytics
 
 Advanced SQL Concepts Implemented:
 
-CASE Statements
+- CASE Statements
 
-Aggregations (COUNT, AVG)
+- Aggregations (COUNT, AVG)
 
-Subqueries
+- Subqueries
 
-Window Functions
+- Window Functions
 
-Multi-level GROUP BY
+- Multi-level GROUP BY
 
-Dynamic Filtering
+- Dynamic Filtering
 
 🐍 Python (Exploratory Data Analysis & Modeling)
 
@@ -57,25 +57,25 @@ Python was used for statistical exploration and visualization.
 
 Libraries Used:
 
-Pandas → Data manipulation and preprocessing
+- Pandas → Data manipulation and preprocessing
 
-NumPy → Numerical operations
+- NumPy → Numerical operations
 
-Matplotlib → Data visualization
+- Matplotlib → Data visualization
 
-Seaborn → Correlation heatmaps and statistical plots
+- Seaborn → Correlation heatmaps and statistical plots
 
 Python Analysis Included:
 
-Data distribution analysis
+- Data distribution analysis
 
-Correlation analysis between investment rankings
+- Correlation analysis between investment rankings
 
-Risk-return relationship exploration
+- Risk-return relationship exploration
 
-Rule-based risk segmentation
+- Rule-based risk segmentation
 
-Age vs Risk visualization
+- Age vs Risk visualization
 
 📊 Power BI (Business Intelligence & Dashboarding)
 
@@ -83,41 +83,41 @@ An interactive dashboard was created to visualize key financial insights.
 
 Dashboard Features:
 
-KPI Cards (Total Investors, Average Age, High-Risk %)
+- KPI Cards (Total Investors, Average Age, High-Risk %)
 
-Demographic Segmentation (Age & Gender)
+- Demographic Segmentation (Age & Gender)
 
-Investment Avenue Ranking
+- Investment Avenue Ranking
 
-Risk Profile Distribution
+- Risk Profile Distribution
 
-Expected Return vs Risk Analysis
+- Expected Return vs Risk Analysis
 
-Interactive Slicers for dynamic filtering
+- Interactive Slicers for dynamic filtering
 
 The dashboard improves insight visibility by 100% compared to raw data tables.
 
 📈 Key Business Insights
 
-~50% of investors belong to the 26–35 age group, indicating highest investment participation.
+- ~50% of investors belong to the 26–35 age group, indicating highest investment participation.
 
-~35–40% of investors classified as High-Risk, based on equity ranking preference.
+- ~35–40% of investors classified as High-Risk, based on equity ranking preference.
 
-Investors expecting higher returns are 1.5x more likely to prefer Equity Markets, demonstrating strong risk-return correlation.
+- Investors expecting higher returns are 1.5x more likely to prefer Equity Markets, demonstrating strong risk-return correlation.
 
-Top 3 investment avenues contribute to ~70% of total investor preferences, indicating market concentration.
+- Top 3 investment avenues contribute to ~70% of total investor preferences, indicating market concentration.
 
-Conservative investors show stronger preference toward Fixed Deposits and Government Bonds.
+- Conservative investors show stronger preference toward Fixed Deposits and Government Bonds.
 
 🧠 Risk Profiling Model
 
 A rule-based risk classification system was developed using equity ranking:
 
-Rank ≤ 2 → High Risk
+- Rank ≤ 2 → High Risk
 
-Rank 3–4 → Moderate Risk
+- Rank 3–4 → Moderate Risk
 
-Rank > 4 → Low Risk
+- Rank > 4 → Low Risk
 
 This model simulates basic investor risk segmentation logic used in financial advisory systems.
 
@@ -144,25 +144,15 @@ Financial-Investment-Analytics/
 
 This project demonstrates the ability to:
 
-Transform raw data into structured financial datasets
+- Transform raw data into structured financial datasets
 
-Perform demographic and behavioral segmentation
+- Perform demographic and behavioral segmentation
 
-Analyze investment risk appetite
+- Analyze investment risk appetite
 
-Identify correlation between return expectations and asset preference
+- Identify correlation between return expectations and asset preference
 
-Deliver business-ready insights through visualization
-
-It reflects practical skills required for:
-
-Finance Analyst
-
-Data Analyst
-
-Investment Research Analyst
-
-Business Intelligence Analyst
+- Deliver business-ready insights through visualization
 
 💼 Why This Project Is Valuable
 
@@ -177,24 +167,12 @@ This project highlights:
 
 📌 Future Enhancements
 
-Predictive modeling using Machine Learning
+- Predictive modeling using Machine Learning
 
-Portfolio optimization modeling
+- Portfolio optimization modeling
 
-Time-series financial forecasting
+- Time-series financial forecasting
 
-Automated risk scoring system
+- Automated risk scoring system
 
-🔥 Now this looks like a serious, professional project — not a college assignment.
 
-If you want next:
-
-🔥 Add professional GitHub badges & formatting
-
-🔥 Add dashboard screenshots section
-
-🔥 Create a strong pinned GitHub project description (2-line version)
-
-🔥 Prepare 60-second interview explanation
-
-Tell me what you want next 😎
