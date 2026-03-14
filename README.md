@@ -101,7 +101,7 @@ The SQL file covers 5 areas of analysis:
 
 ## 📷 Screenshots
 
-![Alt text]("C:\Users\gvysh\OneDrive\画像\Screenshots\Screenshot 2026-03-14 112431.png")
+![Alt text]("C:\Users\gvysh\OneDrive\画像\Screenshots")
 
 ---
 
