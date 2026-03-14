@@ -101,15 +101,15 @@ The SQL file covers 5 areas of analysis:
 
 ## 📷 Screenshots
 
-> *(Add screenshots of Page 1 and Page 2 here after exporting from Power BI)*
+
 
 ---
 
 ## 👤 Author
 
-**[Your Name]**  
+Gandla Vyshnavi  
 Data Analyst | Power BI · MySQL  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+[LinkedIn](www.linkedin.com/in/gandla-vyshnavi) · [GitHub](https://github.com/vysh611)
 
 ---
 
